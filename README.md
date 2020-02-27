@@ -23,7 +23,7 @@
 
 > Flutter clients for GraphQL
 
-- 
+- [graphql_flutter](https://pub.dev/packages/graphql_flutter) - A GraphQL client for Flutter, bringing all the features from a modern GraphQL client to one easy to use package.
 
 ## Developer Tools
 
